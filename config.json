@@ -1,0 +1,189 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": true,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "𝐀𝐧𝐃𝐚𝐧𝐡𝐏𝐞𝐫𝐬𝐨𝐧",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100053153614547",
+        "100076639009137",
+        "100041642780458",
+        "100077016218295"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true
+    },
+    "version": "1.2.15",
+    "checktt": {
+        "maxColumn": 10
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 18032007
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 30
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "rank": {
+        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 5
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyB61NKqeytzlsqu4qrcprHjwsyIzV7TB6U",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub",
+        "ManhG_KEY": "mzkVip_9B4510479C899"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyB61NKqeytzlsqu4qrcprHjwsyIzV7TB6U"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "ghep": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "info": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "sim": {
+        "APIKEY": "Meew_a9x4qJGuj5E6a33iKMBGoxP1yjdGTB"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "log": {
+        "enable": true
+    },
+    "shortlink": {
+        "bitlyAPI": "Meew_a9x4qJGuj5E6a33iKMBGoxP1yjdGTB"
+    },
+    "covid": {
+        "APIKEY": "Meew_a9x4qJGuj5E6a33iKMBGoxP1yjdGTB"
+    },
+    "hitbutt": {
+        "APIKEY": "Meew_a9x4qJGuj5E6a33iKMBGoxP1yjdGTB"
+    },
+    "img": {
+        "APIKEY": "Meew_a9x4qJGuj5E6a33iKMBGoxP1yjdGTB"
+    },
+    "info2": {
+        "APIKEY": "531532681600063|PZKvEhQ2eQ_XGkh5GlhMv6HBS60"
+    },
+    "linkword": {
+        "APIKEY": "Meew_a9x4qJGuj5E6a33iKMBGoxP1yjdGTB"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 30,
+        "unsendMessageAfter": 5
+    },
+    "slap": {
+        "APIKEY": "Meew_a9x4qJGuj5E6a33iKMBGoxP1yjdGTB"
+    },
+    "sortword": {
+        "APIKEY": "Meew_a9x4qJGuj5E6a33iKMBGoxP1yjdGTB"
+    },
+    "teach": {
+        "APIKEY": "Meew_a9x4qJGuj5E6a33iKMBGoxP1yjdGTB"
+    },
+    "sim2": {
+        "APIKEY": "Meew_a9x4qJGuj5E6a33iKMBGoxP1yjdGTB"
+    },
+    "ins": {
+        "APIKEY": "b8e985b51dmshcf0a9aa5a32cf7dp1ba33ejsn1f2f2ba8be95"
+    },
+    "tiktok": {
+        "APIKEY": "Meew_a9x4qJGuj5E6a33iKMBGoxP1yjdGTB"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "working": {
+        "cooldownTime": 1200000
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "hép": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "banner": {
+        "APIKEY": "ntkhang"
+    },
+    "banner2": {
+        "APIKEY": "ntkhang"
+    },
+    "work2": {
+        "cooldownTime": 600000
+    },
+    "singv2": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "bannerfb": {
+        "APIKEY": "ntkhang"
+    },
+    "mail10pv2": {
+        "APIKEY": "chinhdz"
+    },
+    "sound": {
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "lixi": {
+        "cooldownTime": 86400000
+    },
+    "sing2": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "tikvideo": {
+        "APIKEY": "a012e05802msh4ce48bff26d5c0ap151d85jsn4edde7f89de0"
+    }
+}
